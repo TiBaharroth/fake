@@ -3,104 +3,56 @@
     {
       "name": "Messenger",
       "logo": "https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w300-rw",
-      "versions": [
+      "background": "http://geeko.lesoir.be/wp-content/uploads/sites/58/2017/04/messenger.png",
+      "description": "Joignez instantanément, et gratuitement, les personnes de votre vie. Messenger, c'est comme les textos, sauf que vous ne devez pas payer pour chaque message (cela fonctionne avec votre forfait de données).",
+      "canals": [
         {
-          "name": "1.0.0",
-          "date": "07/07/2012"
+          "id": 13,
+          "name": "alpha",
+          "position": 0
         },
         {
-          "name": "1.0.1",
-          "date": "17/07/2012"
+          "id": 14,
+          "name": "bêta",
+          "position": 1
         },
         {
-          "name": "1.0.2",
-          "date": "27/07/2012"
-        },
-        {
-          "name": "1.0.3",
-          "date": "07/08/2012"
-        },
-        {
-          "name": "1.0.4",
-          "date": "17/08/2012"
+          "id": 15,
+          "name": "stable",
+          "position": 2
         }
-      ]
-    },
-    {
-      "name": "Youtube",
-      "logo": "https://lh3.googleusercontent.com/Ned_Tu_ge6GgJZ_lIO_5mieIEmjDpq9kfgD05wapmvzcInvT4qQMxhxq_hEazf8ZsqA=w300-rw",
+      ],
       "versions": [
         {
-          "name": "2.0.0",
-          "date": "07/07/2013"
-        },
-        {
-          "name": "2.0.1",
-          "date": "17/07/2013"
-        },
-        {
-          "name": "2.0.2",
-          "date": "27/07/2013"
-        },
-        {
-          "name": "2.0.3",
-          "date": "07/08/2013"
-        },
-        {
-          "name": "2.0.4",
-          "date": "17/08/2013"
-        }
-      ]
-    },
-    {
-      "name": "Facebook",
-      "logo": "https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300-rw",
-      "versions": [
-        {
+          "build": 14,
           "name": "1.0.0",
-          "date": "07/07/2014"
+          "date": "07/07/2012",
+          "canalId": "13",
+          "file": "https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w300-rw"
         },
         {
+          "build": 15,
           "name": "1.0.1",
-          "date": "17/07/2014"
+          "date": "17/07/2012",
+          "canalId": "14"
         },
         {
+          "build": 16,
           "name": "1.0.2",
-          "date": "27/07/2014"
+          "date": "27/07/2012",
+          "canalId": "15"
         },
         {
+          "build": 17,
           "name": "1.0.3",
-          "date": "07/08/2014"
+          "date": "07/08/2012",
+          "canalId": "14"
         },
         {
+          "build": 18,
           "name": "1.0.4",
-          "date": "17/08/2014'"
-        }
-      ]
-    },
-    {
-      "name": "Snapchat",
-      "logo": "https://lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w300-rw",
-      "versions": [
-        {
-          "name": "1.0.0",
-          "date": "07/07/2015"
-        },
-        {
-          "name": "1.0.1",
-          "date": "17/07/2015"
-        },
-        {
-          "name": "1.0.2",
-          "date": "27/07/2015"
-        },
-        {
-          "name": "1.0.3",
-          "date": "07/08/2015"
-        },
-        {
-          "name": "1.0.4",
-          "date": "17/08/2015"
+          "date": "17/08/2012",
+          "canalId": "13"
         }
       ]
     }
