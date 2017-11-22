@@ -1,60 +1,58 @@
-{
-  "applications": [
-    {
-      "name": "Messenger",
-      "logo": "https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w300-rw",
-      "background": "http://geeko.lesoir.be/wp-content/uploads/sites/58/2017/04/messenger.png",
-      "description": "Joignez instantanément, et gratuitement, les personnes de votre vie. Messenger, c'est comme les textos, sauf que vous ne devez pas payer pour chaque message (cela fonctionne avec votre forfait de données).",
-      "canals": [
-        {
-          "id": 13,
-          "name": "alpha",
-          "position": 0
-        },
-        {
-          "id": 14,
-          "name": "bêta",
-          "position": 1
-        },
-        {
-          "id": 15,
-          "name": "stable",
-          "position": 2
-        }
-      ],
-      "versions": [
-        {
-          "build": 14,
-          "name": "1.0.0",
-          "date": "07/07/2012",
-          "canalId": "13",
-          "file": "https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w300-rw"
-        },
-        {
-          "build": 15,
-          "name": "1.0.1",
-          "date": "17/07/2012",
-          "canalId": "14"
-        },
-        {
-          "build": 16,
-          "name": "1.0.2",
-          "date": "27/07/2012",
-          "canalId": "15"
-        },
-        {
-          "build": 17,
-          "name": "1.0.3",
-          "date": "07/08/2012",
-          "canalId": "14"
-        },
-        {
-          "build": 18,
-          "name": "1.0.4",
-          "date": "17/08/2012",
-          "canalId": "13"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Messenger",
+    "logo": "https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w300-rw",
+    "background": "http://geeko.lesoir.be/wp-content/uploads/sites/58/2017/04/messenger.png",
+    "description": "Joignez instantanément, et gratuitement, les personnes de votre vie. Messenger, c'est comme les textos, sauf que vous ne devez pas payer pour chaque message (cela fonctionne avec votre forfait de données).",
+    "canals": [
+      {
+        "id": 13,
+        "name": "alpha",
+        "position": 0
+      },
+      {
+        "id": 14,
+        "name": "bêta",
+        "position": 1
+      },
+      {
+        "id": 15,
+        "name": "stable",
+        "position": 2
+      }
+    ],
+    "versions": [
+      {
+        "build": 14,
+        "name": "1.0.0",
+        "date": "07/07/2012",
+        "canalId": "13",
+        "file": "https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w300-rw"
+      },
+      {
+        "build": 15,
+        "name": "1.0.1",
+        "date": "17/07/2012",
+        "canalId": "14"
+      },
+      {
+        "build": 16,
+        "name": "1.0.2",
+        "date": "27/07/2012",
+        "canalId": "15"
+      },
+      {
+        "build": 17,
+        "name": "1.0.3",
+        "date": "07/08/2012",
+        "canalId": "14"
+      },
+      {
+        "build": 18,
+        "name": "1.0.4",
+        "date": "17/08/2012",
+        "canalId": "13"
+      }
+    ]
+  }
+]
